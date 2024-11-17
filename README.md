@@ -13,3 +13,7 @@ Below is a preview of the system detecting parking spaces:
 ![Demo Image](demo_image.png)
 
 ## Project Structure
+Car_Parking_Tracking_System/ ├── carPark.mp4 # Input video for parking lot ├── carParkImg.png # Image used for parking space configuration ├── CarParkPos # File storing parking position data ├── configure.py # Script to configure parking spaces ├── main.py # Main parking detection script ├── requirements.txt # Python dependencies └── README.md # Documentation
+
+markdown
+Copy code
