@@ -99,7 +99,7 @@ Install the required libraries using:
 pip install -r requirements.txt
 Download
 You can download this project by cloning the repository or downloading the ZIP file:
-git clone https://github.com/yourusername/Car_Parking_Tracking_System.git
+git clone [https://github.com/yourusername/Car_Parking_Tracking_System.git](https://github.com/parthbodar/car_parking_tracking_system.git)
 Download ZIP
 License
 This project is open-source and available under the MIT License.
